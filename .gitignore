@@ -1,0 +1,5 @@
+myenv
+./chat/__pycache__
+./decora/__pycache__
+./util/__pycache__
+.env
